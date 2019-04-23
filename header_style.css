@@ -1,0 +1,13 @@
+ul.social-organization-schemas-wrap li{
+    list-style: none;
+    display:inline-block;
+    vertical-align:middle;  
+    padding:0px 5px;
+}
+ul.social-organization-schemas-wrap li a:focus,
+ul.social-organization-schemas-wrap li a:active,
+ul.social-organization-schemas-wrap li a:hover,
+ul.social-organization-schemas-wrap li a{
+    text-decoration: none;
+    box-shadow: none;
+}

@@ -1,5 +1,5 @@
 <?php 
-/*
+/*000000000000000000000000000000000000
   Plugin Name: BSD Structure Data
   Plugin URI:
   Description: Simple WordPress plugin for  Structured Data
